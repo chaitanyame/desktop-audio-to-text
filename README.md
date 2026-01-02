@@ -22,7 +22,7 @@ A real-time desktop audio captioning application that uses OpenAI's Whisper mode
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/chaitanyakumar-d/desktop-audio-to-text.git
+   git clone YOUR_REPO_URL
    cd desktop-audio-to-text
    ```
 
